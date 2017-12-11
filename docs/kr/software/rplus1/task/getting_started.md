@@ -5,7 +5,7 @@ ref: rplus1_task_getting_started
 read_time: true
 share: true
 author_profile: false
-permalink: /docs/kr/software/rplus1/task/getting_started/
+permalink: /docs/kr/software/rplus1/task/task/getting_started/
 sidebar:
   title: R+ Task 1.0
   nav: "rplustask1"
@@ -161,6 +161,7 @@ Windows installer와 .NET Framework는 [마이크로소프트 다운로드 센�
 
 1. 제어기 자체 출력 내용
     - 프로그램 시작 메시지가 처음에 출력됩니다.
+    
       ![시작메세지][start-message]
 
     - 프로그램 수행 중 에러 메시지 (에러 메시지 종류 보기)
@@ -176,6 +177,7 @@ Windows installer와 .NET Framework는 [마이크로소프트 다운로드 센�
 ### 화면 지우기
 
 화면의 내용을 지울 수 있습니다.
+
 ![화면지우기][clear-screen]
 
 
@@ -207,52 +209,52 @@ RboPlus Task는 RC-100 등과 같은 조종기가 없어도 조종 기능을 사
 
 [.NET Framework 3.5 다운로드]: http://www.microsoft.com/downloads/details.aspx?FamilyID=d0e5dea7-ac26-4ad7-b68c-fe5076bba986&DisplayLang=ko
 
-[R+task]: /assets/images/sw/rplus1/roboplus_task_001.png
+[R+task]: /assets/images/sw/rplus1/task/roboplus_task_001.png
 
-[명령어-선택]: /assets/images/sw/rplus1/roboplus_task_002.png
+[명령어-선택]: /assets/images/sw/rplus1/task/roboplus_task_002.png
 
-[제어기-선택]: /assets/images/sw/rplus1/roboplus_task_003.png
+[제어기-선택]: /assets/images/sw/rplus1/task/roboplus_task_003.png
 
-[param]: /assets/images/sw/rplus1/roboplus_task_004.png
+[param]: /assets/images/sw/rplus1/task/roboplus_task_004.png
 
-[edit]: /assets/images/sw/rplus1/roboplus_task_005.png
+[edit]: /assets/images/sw/rplus1/task/roboplus_task_005.png
 
-[select]: /assets/images/sw/rplus1/roboplus_task_006.png
+[select]: /assets/images/sw/rplus1/task/roboplus_task_006.png
 
-[select-window]: /assets/images/sw/rplus1/roboplus_task_007.png
+[select-window]: /assets/images/sw/rplus1/task/roboplus_task_007.png
 
 [제어기 정보]: #
 
 [룰 체크 에러 메시지 확인]: #
 
-[port-select]: /assets/images/sw/rplus1/roboplus_task_008.png
+[port-select]: /assets/images/sw/rplus1/task/roboplus_task_008.png
 
-[error-message]: /assets/images/sw/rplus1/roboplus_task_009.png
+[error-message]: /assets/images/sw/rplus1/task/roboplus_task_009.png
 
-[download]: /assets/images/sw/rplus1/roboplus_task_010.png
+[download]: /assets/images/sw/rplus1/task/roboplus_task_010.png
 
-[download-run]: /assets/images/sw/rplus1/roboplus_task_011.png
+[download-run]: /assets/images/sw/rplus1/task/roboplus_task_011.png
 
-[terminal]: /assets/images/sw/rplus1/roboplus_task_012.png
+[terminal]: /assets/images/sw/rplus1/task/roboplus_task_012.png
 
-[output-monitor]: /assets/images/sw/rplus1/roboplus_task_013.png
+[output-monitor]: /assets/images/sw/rplus1/task/roboplus_task_013.png
 
-[monitor-btn]: /assets/images/sw/rplus1/monitor_btn.png
+[monitor-btn]: /assets/images/sw/rplus1/task/monitor_btn.png
 
-[code]: /assets/images/sw/rplus1/roboplus_task_014.png
+[code]: /assets/images/sw/rplus1/task/roboplus_task_014.png
 
-[print]: /assets/images/sw/rplus1/roboplus_task_015.png
+[print]: /assets/images/sw/rplus1/task/roboplus_task_015.png
 
-[newline]: /assets/images/sw/rplus1/roboplus_task_016.png
+[newline]: /assets/images/sw/rplus1/task/roboplus_task_016.png
 
-[start-message]: /assets/images/sw/rplus1/roboplus_task_017.png
+[start-message]: /assets/images/sw/rplus1/task/roboplus_task_017.png
 
-[error-code]: /assets/images/sw/rplus1/roboplus_task_018.png
+[error-code]: /assets/images/sw/rplus1/task/roboplus_task_018.png
 
-[print-num]: /assets/images/sw/rplus1/roboplus_task_019.png
+[print-num]: /assets/images/sw/rplus1/task/roboplus_task_019.png
 
-[print-sensor]: /assets/images/sw/rplus1/roboplus_task_020.png
+[print-sensor]: /assets/images/sw/rplus1/task/roboplus_task_020.png
 
-[clear-screen]: /assets/images/sw/rplus1/roboplus_task_021.png
+[clear-screen]: /assets/images/sw/rplus1/task/roboplus_task_021.png
 
-[virtual-rc100]: /assets/images/sw/rplus1/virtual_rc100.png
+[virtual-rc100]: /assets/images/sw/rplus1/task/virtual_rc100.png

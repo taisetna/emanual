@@ -5,7 +5,7 @@ ref: rplus1_task_programming_01
 read_time: true
 share: true
 author_profile: false
-permalink: /docs/kr/software/rplus1/task/programming_01/
+permalink: /docs/kr/software/rplus1/task/task/programming_01/
 sidebar:
   title: R+ Task 1.0
   nav: "rplustask1"
@@ -121,9 +121,11 @@ RoboPlus Task는 프로그램 코드에서 잘라내기, 복사, 삭제, 주석�
 프로그램 수행 중에 이 문장을 만나면 그대로 프로그램이 종료됩니다. 프로그램이 종료되는 경우는 다음과 같습니다.
 
 1. 프로그램 시작의 구간을 다 수행한 경우 (자연 종료)
+
   ![자연종료][end01]
 
 2. 프로그램 강제 종료를 만났을 경우 (강제 종료)
+
   ![강제종료][end02]
 
 #### 사용법
@@ -471,35 +473,35 @@ RoboPlus Task는 프로그램 코드에서 잘라내기, 복사, 삭제, 주석�
 ## [직접 지정](#직접-지정)
 
 
-[ctrl-select]: /assets/images/sw/rplus1/roboplus_task_022.png
-[sft-select]: /assets/images/sw/rplus1/roboplus_task_023.png
-[select-all]: /assets/images/sw/rplus1/roboplus_task_024.png
-[insert-line]: /assets/images/sw/rplus1/roboplus_task_025.png
-[delete_backspace]: /assets/images/sw/rplus1/roboplus_task_026.png
-[delete_delete]: /assets/images/sw/rplus1/roboplus_task_027.png
-[activate]: /assets/images/sw/rplus1/roboplus_task_028.png
-[cut]: /assets/images/sw/rplus1/roboplus_task_029.png
-[copy]: /assets/images/sw/rplus1/roboplus_task_030.png
-[paste]: /assets/images/sw/rplus1/roboplus_task_031.png
-[search_name]: /assets/images/sw/rplus1/roboplus_task_032.png
-[search_next]: /assets/images/sw/rplus1/roboplus_task_033.png
-[main]: /assets/images/sw/rplus1/roboplus_task_034.png
-[end01]: /assets/images/sw/rplus1/roboplus_task_035.png
-[end02]: /assets/images/sw/rplus1/roboplus_task_036.png
-[end_example]: /assets/images/sw/rplus1/roboplus_task_037.png
-[section]: /assets/images/sw/rplus1/roboplus_task_038.png
-[omitted]: /assets/images/sw/rplus1/roboplus_task_039.png
-[section_example]: /assets/images/sw/rplus1/roboplus_task_040.png
-[comment]: /assets/images/sw/rplus1/roboplus_task_041.png
-[math]: /assets/images/sw/rplus1/roboplus_task_042.png
-[select_operator]: /assets/images/sw/rplus1/roboplus_task_043.png
-[select_parameter]: /assets/images/sw/rplus1/roboplus_task_044.png
-[math_example]: /assets/images/sw/rplus1/roboplus_task_045.png
-[load]: /assets/images/sw/rplus1/roboplus_task_046.png
-[select_load]: /assets/images/sw/rplus1/roboplus_task_047.png
-[load_example01]: /assets/images/sw/rplus1/roboplus_task_048.png
-[load_example02]: /assets/images/sw/rplus1/roboplus_task_049.png
-[label_jump]: /assets/images/sw/rplus1/roboplus_task_050.png
-[jump_label]: /assets/images/sw/rplus1/roboplus_task_051.png
-[jump_label_target]: /assets/images/sw/rplus1/roboplus_task_052.png
-[jump_example]: /assets/images/sw/rplus1/roboplus_task_053.png
+[ctrl-select]: /assets/images/sw/rplus1/task/roboplus_task_022.png
+[sft-select]: /assets/images/sw/rplus1/task/roboplus_task_023.png
+[select-all]: /assets/images/sw/rplus1/task/roboplus_task_024.png
+[insert-line]: /assets/images/sw/rplus1/task/roboplus_task_025.png
+[delete_backspace]: /assets/images/sw/rplus1/task/roboplus_task_026.png
+[delete_delete]: /assets/images/sw/rplus1/task/roboplus_task_027.png
+[activate]: /assets/images/sw/rplus1/task/roboplus_task_028.png
+[cut]: /assets/images/sw/rplus1/task/roboplus_task_029.png
+[copy]: /assets/images/sw/rplus1/task/roboplus_task_030.png
+[paste]: /assets/images/sw/rplus1/task/roboplus_task_031.png
+[search_name]: /assets/images/sw/rplus1/task/roboplus_task_032.png
+[search_next]: /assets/images/sw/rplus1/task/roboplus_task_033.png
+[main]: /assets/images/sw/rplus1/task/roboplus_task_034.png
+[end01]: /assets/images/sw/rplus1/task/roboplus_task_035.png
+[end02]: /assets/images/sw/rplus1/task/roboplus_task_036.png
+[end_example]: /assets/images/sw/rplus1/task/roboplus_task_037.png
+[section]: /assets/images/sw/rplus1/task/roboplus_task_038.png
+[omitted]: /assets/images/sw/rplus1/task/roboplus_task_039.png
+[section_example]: /assets/images/sw/rplus1/task/roboplus_task_040.png
+[comment]: /assets/images/sw/rplus1/task/roboplus_task_041.png
+[math]: /assets/images/sw/rplus1/task/roboplus_task_042.png
+[select_operator]: /assets/images/sw/rplus1/task/roboplus_task_043.png
+[select_parameter]: /assets/images/sw/rplus1/task/roboplus_task_044.png
+[math_example]: /assets/images/sw/rplus1/task/roboplus_task_045.png
+[load]: /assets/images/sw/rplus1/task/roboplus_task_046.png
+[select_load]: /assets/images/sw/rplus1/task/roboplus_task_047.png
+[load_example01]: /assets/images/sw/rplus1/task/roboplus_task_048.png
+[load_example02]: /assets/images/sw/rplus1/task/roboplus_task_049.png
+[label_jump]: /assets/images/sw/rplus1/task/roboplus_task_050.png
+[jump_label]: /assets/images/sw/rplus1/task/roboplus_task_051.png
+[jump_label_target]: /assets/images/sw/rplus1/task/roboplus_task_052.png
+[jump_example]: /assets/images/sw/rplus1/task/roboplus_task_053.png
