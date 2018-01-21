@@ -1,5 +1,5 @@
 
-## 소프트웨어 설치하기
+# Windows
 
 ## OpenCM9.04와 USB 케이블 준비
 
@@ -97,8 +97,8 @@ Window8,10의 경우 "시작설정-> 업데이트 복구-> 복구-> 고급시작
 
 
 `notice` 만약에 다운로드 버튼을 클릭하고도 보드의 녹색 Status LED가 켜지지 않는다면 User button을 누른상태에서 USB를 PC와 연결하십시요.
- 보드 전원이 들어오면서 녹색 LED가 계속 켜지면 다운로드를 다시 시작하십시요. 자세한 설명은 긴급 복구 모드(강제 다운로드)편을 참조하세요.{:. notice}
+ 보드 전원이 들어오면서 녹색 LED가 계속 켜지면 다운로드를 다시 시작하십시요. 자세한 설명은 긴급 복구 모드(강제 다운로드)편을 참조하세요.
 
 ![img](/assets/images/sw/opencm/opencm9.04_windows16.png)
 
-![img](http://support.robotis.com/ko/images/product/opencm/904/opencm9.04_26.jpg)
+![img](/assets/images/sw/opencm/opencm9.04_26.jpg)
